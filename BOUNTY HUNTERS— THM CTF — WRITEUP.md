@@ -169,7 +169,7 @@ Now that I’ve gotten through it, I hope it helps you and gets you through the 
 
 If you guys want me to cover any specific room or challenge, or if you have any queries, feel free to drop a comment.
 
-I’ll check it out and get back to you as soon as I can. Also, you can find all of my writeups and future ones on my GitHub: [https://github.com/5kullk3r](https://github.com/5kullk3r).
+I’ll check it out and get back to you as soon as I can. Also, you can find all of my writeups and future ones on my Medium: https://medium.com/@5kullk3r/easy-peasy-thm-ctf-writeup-926f023a1eb5
 
 Imma bounce for now, but I’ll catch you all in the next writeup\!  
 
